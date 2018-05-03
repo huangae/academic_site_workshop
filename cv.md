@@ -1,8 +1,8 @@
 ---
 layout: resume
 ---
-## Currently
-
+# Currently bigger one hashtag
+**bold text**
 Current Position Description
 
 ## Education
